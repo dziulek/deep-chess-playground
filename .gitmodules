@@ -1,0 +1,3 @@
+[submodule "ChessGamesCompression"]
+	path = ChessGamesCompression
+	url = https://github.com/dziulek/ChessGamesCompression.git
